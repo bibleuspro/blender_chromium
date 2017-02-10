@@ -2562,7 +2562,7 @@ install_DEB() {
              git libfreetype6-dev libx11-dev flex bison libtbb-dev libxxf86vm-dev \
              libxcursor-dev libxi-dev wget libsqlite3-dev libxrandr-dev libxinerama-dev \
              libbz2-dev libncurses5-dev libssl-dev liblzma-dev libreadline-dev $OPENJPEG_DEV \
-             libopenal-dev libglew-dev libglewmx-dev yasm $THEORA_DEV $VORBIS_DEV $OGG_DEV \
+             libopenal-dev libglewmx-dev yasm $THEORA_DEV $VORBIS_DEV $OGG_DEV \
              libsdl1.2-dev libfftw3-dev patch bzip2 libxml2-dev libtinyxml-dev libjemalloc-dev"
 
   OPENJPEG_USE=true
